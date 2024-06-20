@@ -69,6 +69,14 @@ function App() {
           nombre: "Jesús Gutiérrez",
           puesto: "Becario",
           fav: true
+          },
+         {
+          id: uuid(),
+          equipo: "Data Science",
+          foto: "../img/alitros.jpg",
+          nombre: "Alitros Gómez",
+          puesto: "Desarrollador Sr",
+          fav: true
           }
   ])
 
